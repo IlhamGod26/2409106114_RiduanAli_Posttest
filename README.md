@@ -1,1 +1,27 @@
-# 2409106114_RiduanAli_Posttest1
+# Sistem Pembelian Takjil
+
+## Deskripsi
+Program ini merupakan sistem sederhana untuk mengelola data pembelian takjil menggunakan bahasa Java.
+
+Program menggunakan konsep OOP dengan ArrayList untuk menyimpan data takjil.
+
+## Fitur Program
+1. Create (Tambah Takjil)
+2. Read (Lihat Takjil)
+3. Update (Edit Takjil)
+4. Delete (Hapus Takjil)
+5. Program berjalan berulang sampai user memilih exit.
+
+## Class yang Digunakan
+- Class Takjil
+    - nama
+    - harga
+    - stok
+
+## Struktur Data
+Data disimpan menggunakan ArrayList<Takjil>.
+
+## Cara Menjalankan Program
+1. Compile file Java
+2. Jalankan program
+3. Pilih menu sesuai kebutuhan
