@@ -18,10 +18,3 @@ Program menggunakan konsep OOP dengan ArrayList untuk menyimpan data takjil.
     - harga
     - stok
 
-## Struktur Data
-Data disimpan menggunakan ArrayList<Takjil>.
-
-## Cara Menjalankan Program
-1. Compile file Java
-2. Jalankan program
-3. Pilih menu sesuai kebutuhan
